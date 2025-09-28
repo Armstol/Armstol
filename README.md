@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Github Copilot.
 - 📫 How to reach me tuladharranell@gmail.com.
 - 😄 Pronouns: He
-- ⚡ Fun fact: Im Hindu and in Hinduism there is over a million gods.
+- ⚡ Fun fact: Im a Coder.
 
 <!---
 Armstol/Armstol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
